@@ -14,7 +14,7 @@
 - Salesforce Inspector | Data Loader
 
 ## 📂 Projects
-- 🔗 selenium-automation — Selenium Java practice project
+- 🔗 selenium-automation-learning — Selenium Java practice project
 
 ## 📫 Connect with me
 - LinkedIn: linkedin.com/in/ashish-negi-aa29512ab
